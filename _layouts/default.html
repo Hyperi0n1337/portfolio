@@ -6,16 +6,49 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     {% seo %}
+    
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+
+    
     <style>
-      .header {
-        text-align: center; /* Center the text horizontally */
+      section {
+        text-align: justify;
+      } 
+      body {
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+        background-color: #f5f5f5; /* Optional: Set a background color */
+        justify-content: left; /* Center the content horizontally */
       }
+    
+      .wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; /* Center the content horizontally */
+      }
+    
+      header, section, footer {
+        width: 90%;
+        padding: 20px; /* Add spacing between content and margins */
+      }
+    
+
+      section {
+        max-width: 800px; /* Set a maximum width for your content area */
+        background-color: #fff; /* Optional: Content background color */
+        padding: 20px; /* Add spacing between content and margins */
+
+      }
+    
+      /* Other CSS styles for your elements */
     </style>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&display=swap">
+    
+
   </head>
   <body>
     <div class="wrapper">
@@ -26,44 +59,76 @@
         {% endif %}
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <!-- Your other header content goes here -->
-      </header>
-      <section>
-        {{ content }}
-      </section>
-      <footer>
-        <!-- Your footer content goes here -->
         <div class="table-of-contents">
           <h2>Table of Contents</h2>
           <ul id="toc-list">
             <!-- Table of Contents links will be generated here using JavaScript -->
           </ul>
         </div>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <!-- Your footer content goes here -->
+
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
       document.addEventListener('DOMContentLoaded', function() {
         const tocList = document.getElementById('toc-list');
-        const sections = document.querySelectorAll('section'); // Assuming each section has an ID
-      
-        sections.forEach(function(section) {
-          const sectionId = section.getAttribute('id');
-          const sectionTitle = section.querySelector('h2, h3, h4, h5, h6').textContent;
-      
+        const headers = document.querySelectorAll('section > h2, section > h3'); // Include h3 headers as subsections
+    
+        let mainHeader = null; // Initialize a variable to track the current main header
+    
+        headers.forEach(function(header) {
+          const headerId = header.getAttribute('id');
+          const headerText = header.textContent;
+    
+          if (header.tagName === 'H2') {
+            mainHeader = headerText; // Update the current main header
+          }
+    
           const tocItem = document.createElement('li');
           const tocLink = document.createElement('a');
-          tocLink.textContent = sectionTitle;
-          tocLink.href = `#${sectionId}`;
+          tocLink.textContent = header.tagName === 'H2' ? headerText : headerText; // Add ### for h3 headers
+          tocLink.href = `#${headerId}`;
           tocLink.addEventListener('click', function(e) {
             e.preventDefault();
+            const section = document.querySelector(`section[id="${headerId}"]`);
             section.scrollIntoView({ behavior: 'smooth' });
           });
-      
+    
           tocItem.appendChild(tocLink);
-          tocList.appendChild(tocItem);
+          if (header.tagName === 'H3' && mainHeader) {
+            const mainHeaderItem = tocList.querySelector(`[data-header="${mainHeader}"]`);
+            if (mainHeaderItem) {
+              const subList = mainHeaderItem.querySelector('ul');
+              if (!subList) {
+                const newSubList = document.createElement('ul');
+                newSubList.appendChild(tocItem);
+                mainHeaderItem.appendChild(newSubList);
+              } else {
+                subList.appendChild(tocItem);
+              }
+            }
+          } else {
+            tocList.appendChild(tocItem);
+            tocItem.setAttribute('data-header', mainHeader); // Add a data attribute to the tocItem to track the main header
+          }
         });
       });
-      </script>
+    </script>
+    
+    
+    
+    
+    
+    
+    
+    
+      
       
   </body>
 </html>
