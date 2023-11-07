@@ -1,4 +1,4 @@
-ersonal Information
+##### Personal Information
 
 Born in Athens, Greece on November 10 1995.  (Do not include on Resumes generally)
 
