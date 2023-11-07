@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+    <style>
+      .header {
+        text-align: center; /* Center the text horizontally */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
+        {% endif %}
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <!-- Your other header content goes here -->
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <!-- Your footer content goes here -->
+        <div class="table-of-contents">
+          <h2>Table of Contents</h2>
+          <ul id="toc-list">
+            <!-- Table of Contents links will be generated here using JavaScript -->
+          </ul>
+        </div>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const tocList = document.getElementById('toc-list');
+        const sections = document.querySelectorAll('section'); // Assuming each section has an ID
+      
+        sections.forEach(function(section) {
+          const sectionId = section.getAttribute('id');
+          const sectionTitle = section.querySelector('h2, h3, h4, h5, h6').textContent;
+      
+          const tocItem = document.createElement('li');
+          const tocLink = document.createElement('a');
+          tocLink.textContent = sectionTitle;
+          tocLink.href = `#${sectionId}`;
+          tocLink.addEventListener('click', function(e) {
+            e.preventDefault();
+            section.scrollIntoView({ behavior: 'smooth' });
+          });
+      
+          tocItem.appendChild(tocLink);
+          tocList.appendChild(tocItem);
+        });
+      });
+      </script>
+      
+  </body>
+</html>
