@@ -1,32 +1,75 @@
 ---
 ---
-@import "jekyll-theme-minimal";
+
+@import "{{ site.theme }}";
+
+@media (max-width: 368px) { /* Adjust the max-width to your preference */
+  .table-of-contents-container {
+    max-height: none; /* Remove the max-height to allow full content display */
+    overflow-y: auto; /* Add a vertical scrollbar when the content overflows */
+  }
+}
+
+.logo-container {
+  margin-top: 8px; /* Adjust the margin to control the space below the logo */
+}
+
+.header-content {
+  text-align: center; /* Center the text and logo horizontally */
+}
+
+img {
+  display: block; /* Make the image a block element */
+  margin: 0 auto; /* Center the image horizontally */
+}
+
 
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 16px; /* Adjust the font size as needed */
+  padding: 8px;
 }
 
 h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 28px; /* Adjust the font size as needed */
 }
 
 h2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 24px; /* Adjust the font size as needed */
 }
-body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
 
-}
 
 p {
-  font-family: 'Roboto', sans-serif;
+  font-family: Arial, sans-serif;
   font-size: 14px;
+    width: auto;
 
 }
+/* Add this style to adjust spacing */
+ul {
+  margin: 0;
+  padding: 20;
+
+}
+
+li {
+  margin: 0;
+  padding: 20;
+}
+.table-of-contents-container {
+  max-height: 430px; /* Adjust the max height as needed */
+  overflow-y: auto; /* Add vertical scrollbar when the content overflows */
+  /* Additional styling for the container */
+}
+
+.table-of-contents {
+  /* Your existing styles for the table of contents */
+}
+/* Rest of your SCSS styles */
+
+
 
 /* Additional styles and line heights for other elements can be defined here */
 
