@@ -1,25 +1,25 @@
 ---
 layout: default
 ---
-## About Me {#about-me}
+## About Me 👨🏻‍💼
 
 I'm Markos Terzidis, a highly analytical professional with a diverse background spanning engineering, finance, and entrepreneurship. Born in Athens, Greece, I'm a dual citizen of Greece and the United States, and I've leveraged my multilingual skills in English, Russian, and Greek to build an international career.
 
-My journey began with a full-ride merit scholarship at Rowan University, where I earned a Bachelor of Science in Chemical Engineering. During my academic years, I honed my skills in software tools like MATLAB, Solidworks, and Excel, that cultivated my problem-solving abilities and analytical mindset.
+&emsp;My journey began with a full-ride merit scholarship at Rowan University, where I earned a Bachelor of Science in Chemical Engineering. During my academic years, I honed my skills in software tools like MATLAB, Solidworks, and Excel, that cultivated my problem-solving abilities and analytical mindset.
 
-After completing my degree, I gained valuable engineering experience through internships in mechanical design and petroleum engineering. This practical knowledge allowed me to contribute significantly to the family business, gaining a comprehensive understanding of finance and international business relationships.
+&emsp;After completing my degree, I gained valuable engineering experience through internships in mechanical design and petroleum engineering. This practical knowledge allowed me to contribute significantly to the family business, gaining a comprehensive understanding of finance and international business relationships.
 
-My passion for finance led me to actively manage portfolios, not only for myself but also for high-net-worth clients. I specialize in financial analysis, modeling, risk management, and algorithmic trading, and I've achieved commendable returns through active crypto trading and yield farming strategies.
+&emsp;My passion for finance led me to actively manage portfolios, not only for myself but also for high-net-worth clients. I specialize in financial analysis, modeling, risk management, and algorithmic trading, and I've achieved commendable returns through active crypto trading and yield farming strategies.
 
-With a global perspective from living and working in five countries across three continents, I possess cross-cultural fluency and adaptability.
+&emsp;With a global perspective from living and working in five countries across three continents, I possess cross-cultural fluency and adaptability.
 
-Moving forward, I hope to apply my diverse skillset and interdisciplinary experience to new challenges that leverage my analytical capabilities. With expertise spanning engineering, finance, entrepreneurship, and an academic focus on applied mathematics, I'm driven to pursue multifaceted opportunities that allow me to devise inventive solutions and create outsized value.
+&emsp;Moving forward, I hope to apply my diverse skillset and interdisciplinary experience to new challenges that leverage my analytical capabilities. With expertise spanning engineering, finance, entrepreneurship, and an academic focus on applied mathematics, I'm driven to pursue multifaceted opportunities that allow me to devise inventive solutions and create outsized value.
 
 ---
 
-## Work Experience {#work-experience}
+## Work Experience 💼
 
-**Investment Strategist & Portfolio Manager**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 3/2020 - Present  
+**Investment Strategist & Portfolio Manager**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 3/2020 • Present  
 Freelance  
 
 • Managed personalized investment portfolios and financial plans for HNWI. Leveraged multilingual skills to build an international client base.  
@@ -28,7 +28,7 @@ Freelance
 
 • Additionally, through collaboration with experienced programmers I developed a sophisticated backtesting framework, showcasing my proficiency in financial analysis, modeling, trading, risk management, and programming.  
   &emsp;  
-**Quantitative Financial Advisor** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2021 - 8/2023  
+**Quantitative Financial Advisor** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2021 • 8/2023  
 EKP Consultants Inc · Contract  
 Boston, Massachusetts, United States · Hybrid  
 
@@ -42,7 +42,7 @@ Boston, Massachusetts, United States · Hybrid
 
 • Leveraged multilingual skills to effectively manage international financial relationships and partnerships.  
   &emsp;  
-**Operations Director and Financial Strategist**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3/2019 - 4/2022  
+**Operations Director and Financial Strategist** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3/2019 • 4/2022  
 A Terzidis & Co. · Full-time  
 Athens, Attiki, Greece · Hybrid  
    
@@ -65,7 +65,7 @@ Athens, Attiki, Greece · Hybrid
 • Improved communication and coordination between manufacturing and office teams by 20% by introducing a cloud-based order tracking system with interactive dashboard in Google Sheets, allowing for efficient monitoring of order status, production stages, and lead time accuracy.  
   &emsp;  
 
-  **Geothermal Energy Project Consultant**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8/2021 - 12/2021  
+  **Geothermal Energy Project Consultant**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8/2021 • 12/2021  
 Manzaris Aioliki Epidavrou Co.  
 Argolis, Peloponnese, Greece · Remote  
 
@@ -75,7 +75,7 @@ Argolis, Peloponnese, Greece · Remote
 
 • Used proprietary radiometric methodology using electromagnetic field (EMF) data and machine learning techniques to accurately map subsurface geothermal resources and reduce drilling failure rates.  
 &emsp;  
-**Chemical Engineering Specialist**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6/2016 - 8/2017  
+**Chemical Engineering Specialist** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6/2016 • 8/2017  
 Lion Design · Part-time   
 Athens, Attiki, Greece · On-site  
 
@@ -85,9 +85,9 @@ Athens, Attiki, Greece · On-site
 
 ---
 
-    ## Education {#Education}
-**Rowan University**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2013 - 2018  
-Bachelor of Science - BS, Chemical Engineering 
+## Education 📚 
+**Rowan University**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2013 • 2018  
+Bachelor of Science • BS, Chemical Engineering 
 
 *Activities and societies:* American Institute of Chemical Engineers (AIChE), Undergraduate Research
 
@@ -95,17 +95,21 @@ Developed team and design skills while working with students from four different
 Utilized oral and written communication skills to produce project documentation and presentations.  
 Researched related patents, economic and technical feasibility, safety and ethical issues.  
 
-**International Baccalaureate**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 - 2013  
-Chemistry, Physics. Economics HL  
-### Honors & awards
+**International Baccalaureate**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 • 2013  
+Chemistry, Physics. Economics HL
+
+---
+
+### Honors & awards 🏆
 **Recipient of Full-Ride Merit-Based Scholarship**  
 Issued by Rowan University · Jan 2013
 
-### Technical Projects  
-   
+---
+
+### Technical Projects 🛠️
 **Brain-Computer Interface: Controlling the IoT**  
 
-&emsp;I collaborated on developing a brain-computer interface that allowed users to control IoT devices using only their eye movements. We used an Emotiv EEG headset to measure brain activity in the visual cortex as users focused on flashing lights at different frequencies on a web page. By performing a Fourier transform on the EEG signal data in Python, we could determine which light the user was looking at.  
+I collaborated on developing a brain-computer interface that allowed users to control IoT devices using only their eye movements. We used an Emotiv EEG headset to measure brain activity in the visual cortex as users focused on flashing lights at different frequencies on a web page. By performing a Fourier transform on the EEG signal data in Python, we could determine which light the user was looking at.  
 
 &emsp;We designed a web page with four flashing lights that acted as control buttons, representing different rooms and devices. By focusing on a light, users could navigate the web page and toggle devices on and off. We implemented criteria in our Python algorithm to reliably detect which light the user was focusing on, then sent signals to control the IoT devices accordingly using a Raspberry Pi as the server.  
 
@@ -113,7 +117,7 @@ Issued by Rowan University · Jan 2013
 &emsp;  
 **Cocoa Processing Plant: Design and Recommendations**   
 
-&emsp;Collaborated with a team of undergraduate chemical engineering students to model a plant that produces cocoa butter and cocoa powder. Researched all major chemicals involved in the process, patents, and FDA regulations.  
+Collaborated with a team of undergraduate chemical engineering students to model a plant that produces cocoa butter and cocoa powder. Researched all major chemicals involved in the process, patents, and FDA regulations.  
 
 &emsp;Developed a block flow diagram, process flow diagram, piping and instrumentation diagram, project execution plan, equipment list, sizing and cost of equipment, material and energy balances, failure mode effect analysis (FMEA), and life cycle analysis. Calculated annual project revenues based on price analysis, calculated an estimate of total installed cost, and calculated a projected fixed and variable operating cost.  
 
@@ -121,7 +125,7 @@ Issued by Rowan University · Jan 2013
 &emsp;  
 **Biodiesel Production**  
 
-&emsp;Led experimental chemistry project to create biodiesel fuel from waste vegetable oil (WVO). Utilized lab equipment to convert WVO into biodiesel through transesterification reaction with methanol and sodium hydroxide.  
+Led experimental chemistry project to create biodiesel fuel from waste vegetable oil (WVO). Utilized lab equipment to convert WVO into biodiesel through transesterification reaction with methanol and sodium hydroxide.  
 
 &emsp;Achieved 92.27% biodiesel yield. Tested density, pH, and viscosity of biodiesel compared to source oils. Recorded specific gravity of 913 kg/m3 for olive oil versus 880 kg/m3 for washed biodiesel. Ran biodiesel fuel in generator, producing 2199 Watts over 78 seconds from 30 mL of biodiesel.  
 
@@ -129,7 +133,7 @@ Issued by Rowan University · Jan 2013
 &emsp;  
 **Wind Turbine Parametrization**  
 
-&emsp;Designed and built a small-scale wind turbine from everyday materials as part of an engineering research project. Used MATLAB to parametrically analyze 567,452 theoretical turbine configurations across 13 different blade chord lengths.  
+Designed and built a small-scale wind turbine from everyday materials as part of an engineering research project. Used MATLAB to parametrically analyze 567,452 theoretical turbine configurations across 13 different blade chord lengths.  
 
 &emsp;Optimized turbine geometry by importing large MATLAB datasets into Excel and determining ideal parameters. Modeled final turbine design in SOLIDWORKS with coefficient of power of 2.87% at rotational velocity of 15 rad/s.  
 
@@ -146,7 +150,6 @@ Issued by Rowan University · Jan 2013
 • Discovered that filters with orthogonal nanofiber alignment had consistent, controllable pore sizes. Mechanical strength was 10X greater than randomly oriented filters typically used in industry.  
 
 • Gained valuable experience in nanomanufacturing, budgeting, design, filtration, microscopy, and materials characterization. Demonstrated resourcefulness and analytical skills.  
-
 &emsp;  
 **Biomedical Scaffold for Meniscus Tissue Repair**  
 
@@ -176,18 +179,246 @@ Determining Resistances and Cake Porosity using a Plate and Frame Filter Press
 Unit Operations Experiment Proposal: Centrifugation of Raw Milk  
 Separation of a Ternary Mixture of Chloroform, Methanol, and Ethyl Acetate  
   
-Throughout my academic journey, I gained proficiency in various software tools such as MATLAB, Solidworks, Aspen, Comsol, Statgraphics, Mathematica, Polymath (of course microsoft office and google docs). I also explored computer programming in languages like LUA, C++, and Visual Basic. My understanding of operating systems expanded to cover Windows, Linux, macOS, and Android. 
+&emsp;Throughout my academic journey, I gained proficiency in various software tools such as MATLAB, Solidworks, Aspen, Comsol, Statgraphics, Mathematica, Polymath (of course microsoft office and google docs). I also explored computer programming in languages like LUA, C++, and Visual Basic. My understanding of operating systems expanded to cover Windows, Linux, macOS, and Android. 
+
+---
+
+## Languages 🌐  
+
+| **English, Greek** 	| (Native)              	|
+| **French, Russian** 	| (Working Proficiency) 	|
+| **Spanish** 	| (Elementary)          	|
+
+  
+## Quant Portfolio 👇🏻 
+---
+
+### Quantitative Analysis & Programming Skills  📊
+<u>Quantitative Analysis</u>  
+
+**Financial Modeling**  
+Built DCF, Monte Carlo, and options pricing models.
+    
+**Statistical Analysis**  
+Applied regression, time series, and hypothesis testing to extract insights from financial data. 
+    
+**Risk Management**  
+Quantified and managed risk through metrics like VaR and assessing portfolio risk exposure.
+    
+**Algorithmic Trading**  
+Developed and backtested systematic trading strategies.
+    
+**Backtesting**  
+Designed backtesting frameworks to evaluate historical strategy performance. Refined strategies for live trading.  
+
+**Technical Analysis and Sentiment Analysis**  
+Proficient in TA techniques and sentiment analysis to gauge market sentiment and identify trading opportunities.  
+
+**Machine Learning**  
+Recently began exploring machine learning for quantitative finance applications. Tested k-Nearest Neighbors models for classification tasks. Tuned hyperparameters like k value and distance metric to optimize model performance. Evaluated models using error metrics like accuracy, precision, recall, and F1 score.
+
+<u>Programming</u>
+
+**Python**  
+Utilized for data analysis, modeling, algorithm development. Familiar with libraries such as NumPy, pandas.
+    
+**Excel**  
+Comprehensive financial analysis, data manipulation, modeling, automated workflows with macros. Proficient in Power Query and web scraping for real-time data integration. 
+
+**SQL**  
+Managed databases and efficiently manipulated large datasets.
+
+**R**  
+Recently began learning R to expand data analysis toolkit as a complement to Python and Excel.  
+    
+**Financial APIs**  
+Interfaced with broker APIs to access market data and execute automated trades (IBKR's TWS API, ToS API).
+    
+**Data Analysis**  
+Cleaning, visualization, deriving insights from financial datasets.
+    
 
 
+---
+###  Financial & Investment Analysis 🏦
 
-## Languages {#Languages}
-**English** (Native)  
-**Greek** (Native)  
-**French** (Working Proficiency)   
-**Russian** (Working Proficiency)  
-**Spanish** (Elementary)  
+**_Fundamental Analysis_**  
 
-## **Quantitative Skills Portfolio** {#Quant}
+• Extensive experience in conducting fundamental analysis of financial markets and assets.  
 
-### Lesser 1 {#Lesser1}
-### Lesser 2 {#Lesser2}
+• In-depth knowledge of financial statement analysis, including balance sheets, income statements, and cash flow statements.  
+
+• Proficient in evaluating company financials, assessing valuations, and identifying investment opportunities.  
+
+• Demonstrated ability to analyze company performance, industry trends, and macroeconomic factors to make informed investment decisions.  
+
+
+**_Banking Sector Analysis_**  
+
+• Conducted thorough analysis of the banking sector in the US, including major financial institutions.  
+
+• Evaluated the impact of Federal Reserve policies on financial markets and bank operations.  
+
+• Monitored Federal Reserve's Repurchase Agreement (RRP) dynamics and its influence on market liquidity.  
+
+• Analyzed the effects of SOFR transition on bank funding markets and evaluated arbitrage opportunities.  
+
+
+**_Macroeconomic Analysis_**  
+
+• Proficient in tracking and interpreting a wide range of macroeconomic indicators to assess economic health.  
+
+• Analyzed demand/supply dynamics in the Treasury market and evaluated alternative cash investment options.  
+
+• Assessed the impact of major macroeconomic events on financial markets.  
+
+• Studied the implications of Basel III regulations on bank liquidity and lending.  
+
+
+**_Demographics Analysis_**  
+
+• Conducted demographic analysis to understand its impact on economic trends and market dynamics.  
+
+• Analyzed social and political consequences of economic trends and policy responses.  
+
+• Utilized historical data to make informed predictions and identify investable economic bottlenecks.  
+
+
+**_Interest Rates Forecasting_**  
+
+• Deep understanding of interest rates and their impact on financial markets.  
+
+• Evaluated the effects of interest rate changes on investment strategies and asset pricing.  
+
+• Monitored domestic money market fund (MMF) flows, yields, and their implications on investment decisions.  
+
+• Considered alternative cash investment options in response to changing interest rate environments.  
+
+
+**_Energy Sector Analysis_**  
+
+• Adopted integrated approach combining energy modeling with broader macroeconomic analysis. Highlighted interactions between energy, economic, and financial factors.  
+
+• Monitored energy costs and assessed the energy cost of energy (ECoE) in investment decisions.  
+
+
+**_Commodity Analysis (Lithium)_**  
+
+• Successfully traded Australian lithium mining companies by tracking lithium carbonate spot prices.  
+
+• Adapted to the absence of a futures market for lithium by using alternative pricing data.  
+
+• Utilized in-depth knowledge of the lithium market to make profitable investment decisions.  
+
+
+**_Real Estate Investment Analysis_**  
+
+• Engaged in real estate ventures and possess the ability to develop comprehensive models to assess their profitability.  
+
+• Calculated net cash flows, factoring in interest rates, tax deductions, and property appreciation.  
+
+• Utilized interest rate analysis to identify promising real estate markets.  
+
+• Studied real estate financing in various countries to understand its impact on local markets.  
+
+---
+### Crypto & Forex Trading 💱
+
+**Crypto Trading & Yield Farming Experience**  
+
+• Traded cryptocurrencies using TA and tokenomics fundamentals. Focused on volatile coins with high liquidity for short-term trades.  
+
+• Transitioned to stablecoin yield farming and liquidity pools. Researched protocols like Ethereum, Solana, and BSC to evaluate stablecoin risks and rewards. Diversified across platforms to mitigate risk.  
+
+• Grew initial personal capital of $30,000 to $300,000 through strategic crypto trading. Protected principal by moving to stable assets before market decline.  
+
+**Forex Trading Experience**  
+
+• Traded major currency pairs including Rouble and Euro. Shorted EURUSD from 1.15 to 0.98 based on fundamentals, helping clients preserve their purchasing power.  
+
+• Bought Rouble at 103 when sentiment was negative. Sold at 65 after analyzing Russian central bank policies and interest rate hikes.  
+
+• Follow various currency pairs. Use technical analysis like momentum oscillators and cross correlation maps. Collaborated with friends to code trading strategies on MetaTrader.  
+
+---
+### Software & Technical Tools 💻
+
+**_Programming Languages and Software Proficiency_**
+
+• Experience in Python, SQL, C#, C++, Java, and LUA. Automated data collection and analysis workflows in Excel VBA.  
+
+• HTML/CSS/JavaScript: Created website frontend with Vue.js to showcase lingerie product line. Integrated with WooCommerce.  
+
+• Can create custom solutions to meet specific analysis and trading needs. Built complex models for manufacturing facility costing, production planning and financial analysis. Automated reports through Power Query.  
+
+• Developed and sold scripts for in-game bots for League of Legends and Lineage 2 in high school using LUA and C++. Hosted and customized private Lineage 2 server using Java and MySQL.  
+
+• Experimented extensively with LLMs like ChatGPT and Claude to evaluate their capabilities and applicability to investing.  
+
+**_Financial Software and Tools Expertise_**
+
+• Skilled in using PortfolioVisualizer for portfolio analysis, optimization, and backtesting.  
+
+• Use a python library that dynamically fetches instrument data from IBKR to plot and visualize metrics and programmatically place orders.  
+
+
+**_Data Analysis and Visualization Tools_**
+
+• Experienced in working with data analysis and visualization tools like MATLAB, Solidworks, and other specialized software.
+
+**Collaborative Tools**  
+
+**Jupyter Notebooks**  
+Built interactive notebooks for collaborative data analysis and modeling.  
+
+**Git**  
+Familiar with managing version control and tracking code changes using Git and GitHub  
+
+**G-Suite**  
+Created cloud-based order tracking system using Google Sheets for manufacturing business. Enabled real-time monitoring of order status, production stages, and lead times across teams.  
+
+**_Database Management_**
+
+• Managed MySQL database for custom Lineage 2 private server. Ensured data integrity for user profiles and in-game metrics.  
+
+**_IT Proficiency_**
+
+• Provided end-user support by diagnosing and resolving desktop and laptop issues, software installations, network connectivity, and scripting challenges in Windows, Linux, and macOS environments. Experience across operating systems.  
+
+• Expertise includes creating Autohotkey scripts to automate computer processes like data entry, file management, and application workflows; reflecting a commitment to automation and process improvement.  
+
+**_Homebrew Backtesting and Data Analysis Tools Design_**
+
+• Designed schematics for a comprehensive homebrew backtesting system to evaluate trading strategies.  
+
+• This system includes components like the Data Origination Service, Provider Scheduler, Data Transformer/Builder, Strategy Manager, Thread Pool/Process Pool Scheduler, Persistence Interfaces, Database, Strategy Viewer, and In-Memory Cache.  
+
+• Gained expertise in designing complex tools for accurate and efficient trading strategy evaluation through this endeavor.  
+
+• Partnered with experienced programmers to design system architecture and components, strategize feasibility and scope.  
+
+• Project helped build skills in designing and implementing sophisticated analytics and backtesting tools, though recognized final development was too large an endeavor to complete at the time.  
+
+---
+### Investment Management & Financial Advisory 🤝🏻
+
+**_Managing Investments for Others_**
+
+• Managed a crypto portfolio for a group of investors with a performance-based fee structure, generating annualized returns >30% through active trading and yield farming strategies.  
+
+• Provided personalized investment guidance to HNWI, developing customized strategies aligned to their distinct goals and risk profiles, as well as tax optimization. Advised on portfolio allocation across crypto, forex, stocks, and real estate.
+
+**_Risk Assessment and Risk Management_**  
+
+•  Avoided risky investments during the crypto downturn, exercising sound risk management.  
+
+•  Instituted stop losses, position limits, and strict entry/exit criteria for algorithmic trading strategies to manage risk.  
+
+
+**_Networking and Client Relations_**  
+
+• Leveraged multilingual skills in Greek, English, French, and Russian to build rapport with international client base of HNWI.  
+
+• Acted as the primary point of contact for investment clients, providing portfolio updates and addressing inquiries in a timely manner.  
+
+• Actively participate in professional online communities and social media platforms to stay informed on financial topics and exchange insights with peers.  
