@@ -3,12 +3,8 @@
 
 @import "{{ site.theme }}";
 
-@media (max-width: 368px) { /* Adjust the max-width to your preference */
-  .table-of-contents-container {
-    max-height: none; /* Remove the max-height to allow full content display */
-    overflow-y: auto; /* Add a vertical scrollbar when the content overflows */
-  }
-}
+
+@media (min-width: 1630px) {
 
 .logo-container {
   margin-top: 8px; /* Adjust the margin to control the space below the logo */
@@ -54,23 +50,60 @@ ul {
 
 }
 
+header{
+  width: 470px;
+  right: 1075px;
+}
+
+section{
+  float: left;
+  margin-left: 300px;
+  width: 900px;
+}
+
 li {
   margin: 0;
   padding: 20;
 }
-.table-of-contents-container {
-  max-height: 430px; /* Adjust the max height as needed */
-  overflow-y: auto; /* Add vertical scrollbar when the content overflows */
-  /* Additional styling for the container */
+
 }
 
-.table-of-contents {
-  /* Your existing styles for the table of contents */
+@media (max-width: 1629px) {
+
+  body {
+    font-family: Arial, sans-serif;
+
+  }
+  
+  h1 {
+    font-family: Arial, sans-serif;
+
+  }
+  
+  h2 {
+    font-family: Arial, sans-serif;
+
+  }
+  
+  
+  p {
+    font-family: Arial, sans-serif;
+
+  }
+
+  .table-of-contents-container {
+    max-height: none;
+    overflow-y: visible;
+  }
+  
+  .table-of-contents-container ul {
+    padding: 0;
+  }
+
+  .table-of-contents-container li {
+    padding: 5px 0; 
+    font-size: 14px;
+  }
+
+
 }
-/* Rest of your SCSS styles */
-
-
-
-/* Additional styles and line heights for other elements can be defined here */
-
-/* Add more styles and sizes for other elements as needed */
