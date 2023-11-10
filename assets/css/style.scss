@@ -112,6 +112,14 @@ p {
 }
 
 
+/* to FIX SQUISHED TOC IN THIS RANGE */
+@media (min-width: 485px) and (max-width: 593px) {
+  div.table-of-contents{
+  width: 222px;
+}
+}
+
+
 /* to fix the table of contents that messes up in this range */
 @media (max-width: 860px) {
 header{
