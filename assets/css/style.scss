@@ -3,9 +3,89 @@
 
 @import "{{ site.theme }}";
 
+@media (min-width: 1630px) {
+
+  .logo-container {
+    margin-top: 8px; /* Adjust the margin to control the space below the logo */
+  }
+  
+  .header-content {
+    text-align: center; /* Center the text and logo horizontally */
+  }
+  
+  img {
+    display: block; /* Make the image a block element */
+    margin: 0 auto; /* Center the image horizontally */
+  }
+  
+  
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px; /* Adjust the font size as needed */
+    padding: 8px;
+  }
+  
+  h1 {
+    font-family: Arial, sans-serif;
+    font-size: 28px; /* Adjust the font size as needed */
+  }
+  
+  h2 {
+    font-family: Arial, sans-serif;
+    font-size: 24px; /* Adjust the font size as needed */
+  }
+  
+  
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+      width: auto;
+  
+  }
+  /* Add this style to adjust spacing */
+  ul {
+    margin: 0;
+    padding: 20;
+  
+  }
+  
+  header{
+    width: 470px;
+    right: 1075px;
+  }
+  
+  section{
+    float: left;
+    margin-left: 300px;
+    width: 900px;
+  }
+  
+  li {
+    margin: 0;
+    padding: 20;
+  }
+  
+  }
+
+body {
+  font-family: Arial, sans-serif;
+
+}
+
+h1 {
+  font-family: Arial, sans-serif;
+
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+
+}
 
 
-
+p {
+  font-family: Arial, sans-serif;
+}
 
 
 
@@ -13,9 +93,12 @@
 
 
 /*fix the text being cut off from the left on small screens like phones */
-@media (min-width: 582px) {
+@media (max-width: 582px) {
 
-
+  div.wrapper {
+    width: 90%; /* Adjust as needed */
+    margin: 0 auto; /* Center the wrapper horizontally */
+  }
 
 
 }
