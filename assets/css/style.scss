@@ -2,3 +2,42 @@
 ---
 
 @import "{{ site.theme }}";
+
+
+
+
+
+
+
+
+
+
+/*fix the text being cut off from the left on small screens like phones */
+@media (min-width: 582px) {
+
+
+
+
+}
+
+
+/* to fix the table of contents that messes up in this range */
+@media (min-width: 620px) and (max-width: 860px) {
+
+
+ 
+}
+
+
+/* to fix the table of contents that messes up in this range */
+@media (max-width: 860px) {
+header{
+
+  display: flex;
+  justify-content: center;
+
+}
+
+ 
+}
+
