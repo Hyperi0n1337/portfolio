@@ -135,7 +135,7 @@ Chemistry, Physics. Economics HL
 **Recipient of Full-Ride Merit-Based Scholarship**  
 Issued by Rowan University · Jan 2013
 
----[Link to another page](./another-page.html).
+---
 
 ### Technical Projects 🛠️
 **Brain-Computer Interface: Controlling the IoT**  
