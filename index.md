@@ -19,7 +19,8 @@ I'm Markos Terzidis, a highly analytical professional with a diverse background 
 
 ## Work Experience 💼
 
-**Investment Strategist & Portfolio Manager**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 3/2020 • Present  
+**Investment Strategist & Portfolio Manager**  
+3/2020 • Present  
 Freelance  
 <p align="justify">
 • Managed personalized investment portfolios and financial plans for HNWI. Leveraged multilingual skills to build an international client base.  
@@ -28,7 +29,8 @@ Freelance
 </p><p align="justify">
 • Additionally, through collaboration with experienced programmers I developed a sophisticated backtesting framework, showcasing my proficiency in financial analysis, modeling, trading, risk management, and programming.</p>
   &emsp;  
-**Quantitative Financial Advisor** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;10/2021 • 8/2023  
+**Quantitative Financial Advisor**  
+10/2021 • 8/2023  
 EKP Consultants Inc · Contract  
 Boston, Massachusetts, United States · Hybrid  
 <p align="justify">
@@ -42,7 +44,8 @@ Boston, Massachusetts, United States · Hybrid
 </p><p align="justify">
 • Leveraged multilingual skills to effectively manage international financial relationships and partnerships.  </p>
   &emsp;  
-**Operations Director and Financial Strategist** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;3/2019 • 4/2022  
+**Operations Director and Financial Strategist**  
+3/2019 • 4/2022  
 A Terzidis & Co. · Full-time  
 Athens, Attiki, Greece · Hybrid  
    <p align="justify">
@@ -56,7 +59,7 @@ Athens, Attiki, Greece · Hybrid
 </p><p align="justify">
 • Spearheaded the launch of a new lingerie brand, from product conceptualization and material sourcing to cost analysis and online presence establishment.
 </p><p align="justify">
-• Maintained meticulous records and detailed Excel spreadsheets tracking material costs, specifications, production instructions, and yields for over 500 SKUs sing Vue.js for frontend and WooCommerce for backend development, for efficient production management. 
+• Maintained meticulous records and detailed Excel spreadsheets tracking material costs, specifications, production instructions, and yields for over 500 SKUs using Vue.js for frontend and WooCommerce for backend development, for efficient production management. 
 </p><p align="justify">
 • Collaborated with international entrepreneurs to establish manufacturing facilities in Tunisia, Morocco, Turkey, and Vietnam, leveraging lower labor costs and earning equity in these ventures.  
 </p><p align="justify">
@@ -65,7 +68,8 @@ Athens, Attiki, Greece · Hybrid
 • Improved communication and coordination between manufacturing and office teams by 20% by introducing a cloud-based order tracking system with interactive dashboard in Google Sheets, allowing for efficient monitoring of order status, production stages, and lead time accuracy.  </p>
   &emsp;  
 
-  **Geothermal Energy Project Consultant**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;8/2021 • 12/2021  
+  **Geothermal Energy Project Consultant**  
+  8/2021 • 12/2021  
 Manzaris Aioliki Epidavrou Co.  
 Argolis, Peloponnese, Greece · Remote  
 <p align="justify">
@@ -75,7 +79,8 @@ Argolis, Peloponnese, Greece · Remote
 </p><p align="justify">
 • Used proprietary radiometric methodology using electromagnetic field (EMF) data and machine learning techniques to accurately map subsurface geothermal resources and reduce drilling failure rates.  </p>
 &emsp;  
-**Chemical Engineering Specialist** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;6/2016 • 8/2017  
+**Chemical Engineering Specialist**  
+6/2016 • 8/2017  
 Lion Design · Part-time   
 Athens, Attiki, Greece · On-site  
 <p align="justify">
@@ -83,10 +88,22 @@ Athens, Attiki, Greece · On-site
 </p><p align="justify">
 • Gained hands-on experience in the various phases of form-fitting textile production, with a primary focus on plastic accessory manufacturing. This included operating injection plastic machines to produce high-quality accessories for the textile industry. 
 </p>
+**Petroleum Engineering / Value analysis - Chemical Engineer Intern**  
+6/2015 • 8/2015  
+LUKOIL · Internship  
+Kogalym, Khanty-Mansi, Russia · Hybrid  
+
+• Researched and tackled pipeline corrosion issues due to chemical make-up of oil, performed cost analysis of select equipment  
+
+• Monitored drilling operations to ensure performance    
+<p align="justify">
+Collaborated with a team of experienced American petroleum engineers to foster an environment of innovative problem-solving. My cross-cultural perspective complemented the expertise of these industry veterans and strengthened my technical capabilities.  
+</p>
 ---
 
 ## Education 📚 
-**Rowan University**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2013 • 2018  
+**Rowan University**  
+2013 • 2018  
 Bachelor of Science • BS, Chemical Engineering 
 <p align="justify">
 *Activities and societies:* American Institute of Chemical Engineers (AIChE), Undergraduate Research
@@ -95,7 +112,8 @@ Developed team and design skills while working with students from four different
 Utilized oral and written communication skills to produce project documentation and presentations.  </p><p align="justify">
 Researched related patents, economic and technical feasibility, safety and ethical issues.  </p>
 
-**International Baccalaureate**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2011 • 2013  
+**International Baccalaureate**  
+2011 • 2013  
 Chemistry, Physics. Economics HL
 
 ---
@@ -104,10 +122,11 @@ Chemistry, Physics. Economics HL
 **Recipient of Full-Ride Merit-Based Scholarship**  
 Issued by Rowan University · Jan 2013
 
----
+---[Link to another page](./another-page.html).
 
 ### Technical Projects 🛠️
 **Brain-Computer Interface: Controlling the IoT**  
+[Presentation](https://www.youtube.com/watch?v=q2rnAEK-Ir0) , [Research Paper](https://docs.google.com/document/d/1FZXyd4hyd0DHZHuqq-xwnf3NUk_3Tcm13hOrmA9TCF8/edit)  
 <p align="justify">
 I collaborated on developing a brain-computer interface that allowed users to control IoT devices using only their eye movements. We used an Emotiv EEG headset to measure brain activity in the visual cortex as users focused on flashing lights at different frequencies on a web page. By performing a Fourier transform on the EEG signal data in Python, we could determine which light the user was looking at.  
 </p><p align="justify">
@@ -135,13 +154,13 @@ Led experimental chemistry project to create biodiesel fuel from waste vegetable
 <p align="justify">
 Designed and built a small-scale wind turbine from everyday materials as part of an engineering research project. Used MATLAB to parametrically analyze 567,452 theoretical turbine configurations across 13 different blade chord lengths.  </p><p align="justify">
 
-&emsp;Optimized turbine geometry by importing large MATLAB datasets into Excel and determining ideal parameters. Modeled final turbine design in SOLIDWORKS with coefficient of power of 2.87% at rotational velocity of 15 rad/s.  </p><p align="justify">
+&emsp;Optimized turbine geometry by importing large MATLAB datasets into Excel and determining ideal parameters. Modeled final turbine design in Solidworks with coefficient of power of 2.87% at rotational velocity of 15 rad/s.  </p><p align="justify">
 
 &emsp;Gained valuable experience in computer-aided engineering, parametric analysis, data science, mathematical modeling, and renewable energy systems. Demonstrated strong analytical skills and hands-on engineering capabilities through quantitative turbine experimentation and modeling.  </p>
 &emsp;  
-**Nanofiber Based Filters (year long project)**  
+**Nanofiber Based Filters (year-long project)**  
 
-• Designed and tested air filters using electrically-spun nanofibers arranged in an orthogonal pattern using a novel manufacturing technique.  
+• Designed and tested air filters using electrospun nanofibers arranged in an orthogonal pattern using a novel manufacturing technique.  
 <p align="justify">
 • Worked within a constrained budget to engineer, manufacture, and evaluate filters. Assessed pressure drop, mechanical durability, and filtration efficiency. Compared orthogonally aligned filters to commercial filters and randomly oriented nanofiber filters.  
 </p><p align="justify">
@@ -168,7 +187,7 @@ Designed and built a small-scale wind turbine from everyday materials as part of
 Parametric design project: Water-propelled bottle rockets  </p><p align="justify">
 Responsibilities: Technical writing, figure generation, data collection  </p><p align="justify">
 • Prioritized practical testing over CAD design.  </p><p align="justify">
-• Utilized SOLIDWORKS for modeling the most successful prototype out of 19 designs. </p><p align="justify">  
+• Utilized Solidworks for modeling the most successful prototype out of 19 designs. </p><p align="justify">  
 • Characterized rockets based on parameters like water mass, fin aspect ratio, and Playdoh nose cone mass. </p><p align="justify"> 
 • Data-driven approach to inform design choices within a diverging-converging framework.   </p><p align="justify">
 • Achieved improved rocket performance through systematic testing and analysis.  </p>
@@ -208,7 +227,7 @@ Quantified and managed risk through metrics like VaR and assessing portfolio ris
 **Algorithmic Trading**  
 Developed and backtested systematic trading strategies.
     
-**Backtesting**  
+**Backtesting**   
 Designed backtesting frameworks to evaluate historical strategy performance. Refined strategies for live trading.  
 
 **Technical Analysis and Sentiment Analysis**  
@@ -220,7 +239,7 @@ Recently began exploring machine learning for quantitative finance applications.
 <u>Programming</u>
 
 **Python**  
-Utilized for data analysis, modeling, algorithm development. Familiar with libraries such as NumPy, pandas.
+Utilized for data analysis, modeling, and algorithm development. Familiar with libraries such as NumPy, pandas.
     
 **Excel**  
 Comprehensive financial analysis, data manipulation, modeling, automated workflows with macros. Proficient in Power Query and web scraping for real-time data integration. 
@@ -385,7 +404,7 @@ Created cloud-based order tracking system using Google Sheets for manufacturing 
 
 • Provided end-user support by diagnosing and resolving desktop and laptop issues, software installations, network connectivity, and scripting challenges in Windows, Linux, and macOS environments. Experience across operating systems.  
 
-• Expertise includes creating Autohotkey scripts to automate computer processes like data entry, file management, and application workflows; reflecting a commitment to automation and process improvement.  
+• Expertise includes creating Autohotkey scripts to automate computer processes like data entry, file management, and application workflows, reflecting a commitment to automation and process improvement.  
 
 **_Homebrew Backtesting and Data Analysis Tools Design_**
 
@@ -410,9 +429,9 @@ Created cloud-based order tracking system using Google Sheets for manufacturing 
 
 **_Risk Assessment and Risk Management_**  
 
-•  Avoided risky investments during the crypto downturn, exercising sound risk management.  
+• Avoided risky investments during the crypto downturn, exercising sound risk management.  
 
-•  Instituted stop losses, position limits, and strict entry/exit criteria for algorithmic trading strategies to manage risk.  
+• Instituted stop losses, position limits, and strict entry/exit criteria for algorithmic trading strategies to manage risk.  
 
 
 **_Networking and Client Relations_**  
@@ -422,3 +441,22 @@ Created cloud-based order tracking system using Google Sheets for manufacturing 
 • Acted as the primary point of contact for investment clients, providing portfolio updates and addressing inquiries in a timely manner.  
 
 • Actively participate in professional online communities and social media platforms to stay informed on financial topics and exchange insights with peers.  
+
+---
+
+## Other Proficiencies 🧩  
+
+**Global Experience**  
+Lived and worked in 5 countries across 3 continents (Europe, US, Vietnam, Russia, Philippines), gaining cross-cultural fluency, language skills, and ability to adapt in diverse business environments. 
+
+**Entrepreneurship**  
+Demonstrated business acumen and adaptability by coordinating international manufacturing collaborations and launching an entrepreneurial fashion company.  
+
+**Project Management**  
+Led engineering teams on multidisciplinary projects, developing collaboration, communication and leadership skills.  
+
+**Legal and Tax Familiarity**  
+Skilled at analyzing legal agreements, with working knowledge of corporate and international tax principles sufficient to optimize investment decisions and maximize after-tax returns.  
+
+**Biology, Nutrition, and Exercise Science**  
+Leverage expertise in biology, nutrition, and exercise science to provide personalized, quantitatively-driven fitness and diet guidance. Develop customized plans based on in-depth tracking and analysis of key metrics including weight fluctuations, caloric intake, macronutrient and micronutrient optimization. Take a data-centric approach to exercise programming and nutrition planning, adjusting for factors like body type, goals, experience level, and injuries. Have created comprehensive Excel models to analyze variables like metabolic rate and medication half-lives over time. This analytical, metric-focused process produces tailored recommendations grounded in the science.
