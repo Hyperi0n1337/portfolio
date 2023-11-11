@@ -101,6 +101,19 @@ Collaborated with a team of experienced American petroleum engineers to foster a
 </p>
 ---
 
+## Latest Pursuits💡  
+I am developing a Python program to optimize asset allocation based on the half-Kelly criterion. Half-Kelly targets 75% of the expected growth rate at full Kelly but with only 50% of the volatility.  
+
+The code analyzes historical return data scraped from APIs to model asset volatilities, correlations, and risk-adjusted returns. It then determines the asset weightings that maximize the portfolio's Sharpe ratio at half-Kelly.  
+
+Functionality also accounts for real-world considerations like transaction costs, slippage, and taxes during rebalancing. Autocorrelation in asset prices is incorporated to improve forecasting for rebalancing decisions.  
+
+The goal is a flexible tool that generates optimized portfolio allocations tailored to an investor's risk tolerance. Users can input holdings, customize constraints, and run optimizations to receive weightings maximizing risk-adjusted returns at half-Kelly.  
+
+This project is being developed collaboratively on a private GitHub repository with an experienced programmer colleague. The focus is translating proven financial theory into a robust portfolio optimization tool.  
+
+---
+
 ## Education 📚 
 **Rowan University**  
 2013 • 2018  
