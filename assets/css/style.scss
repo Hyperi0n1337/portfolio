@@ -10,6 +10,10 @@
   }
 }
 
+.table-of-contents > h2:nth-child(1) {
+padding-left: 22px;
+}
+
 
 /* Make pic a bit smaller so whole ToC fits*/
 @media (min-width: 1620px) {
