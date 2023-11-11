@@ -3,6 +3,22 @@
 
 @import "{{ site.theme }}";
 
+/* Move the header a bit to the left */
+@media (min-width: 1830px) {
+  header{
+    padding-right: 100px;
+  }
+}
+
+
+/* Make pic a bit smaller so whole ToC fits*/
+@media (min-width: 1620px) {
+img{
+
+  max-width: 75%;
+}
+}
+
 @media (min-width: 1630px) {
 
   .logo-container {
@@ -99,10 +115,17 @@ p {
     width: 90%; /* Adjust as needed */
     margin: 0 auto; /* Center the wrapper horizontally */
   }
+  /* add a border between ToC and rest of header */
+  div.table-of-contents{
+  border-left-width: 1px;
+  border-left-style: dotted;
+  }
 
-
+img {
+  max-width: 99%;
 }
 
+}
 
 /* to fix the table of contents that messes up in this range */
 @media (min-width: 620px) and (max-width: 860px) {
@@ -131,4 +154,12 @@ header{
 
  
 }
+
+@media (min-width: 761px) and (max-width: 850px) {
+img{
+
+  max-width: 70%;
+}
+}
+
 
