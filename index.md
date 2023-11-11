@@ -119,7 +119,7 @@ This project is being developed collaboratively on a private GitHub repository w
 2013 • 2018  
 Bachelor of Science • BS, Chemical Engineering 
 <p align="justify">
-*Activities and societies:* American Institute of Chemical Engineers (AIChE), Undergraduate Research
+Activities and societies: American Institute of Chemical Engineers (AIChE), Undergraduate Research
 </p><p align="justify">
 Developed team and design skills while working with students from four different engineering disciplines.  </p><p align="justify">
 Utilized oral and written communication skills to produce project documentation and presentations.  </p><p align="justify">
@@ -139,7 +139,7 @@ Issued by Rowan University · Jan 2013
 
 ### Technical Projects 🛠️
 **Brain-Computer Interface: Controlling the IoT**  
-[Presentation](https://www.youtube.com/watch?v=q2rnAEK-Ir0) , [Research Paper](https://docs.google.com/document/d/1FZXyd4hyd0DHZHuqq-xwnf3NUk_3Tcm13hOrmA9TCF8/edit)  
+[Presentation](https://www.youtube.com/watch?v=q2rnAEK-Ir0), [Research Paper](https://docs.google.com/document/d/1FZXyd4hyd0DHZHuqq-xwnf3NUk_3Tcm13hOrmA9TCF8/edit)  
 <p align="justify">
 I collaborated on developing a brain-computer interface that allowed users to control IoT devices using only their eye movements. We used an Emotiv EEG headset to measure brain activity in the visual cortex as users focused on flashing lights at different frequencies on a web page. By performing a Fourier transform on the EEG signal data in Python, we could determine which light the user was looking at.  
 </p><p align="justify">
