@@ -460,7 +460,7 @@ Created cloud-based order tracking system using Google Sheets for manufacturing 
 ## Other Proficiencies 🧩  
 
 **Global Experience**  
-Lived and worked in 5 countries across 3 continents (Europe, US, Vietnam, Russia, Philippines), gaining cross-cultural fluency, language skills, and ability to adapt in diverse business environments. 
+Lived and worked in 5 countries across 3 continents (US, Europe, Vietnam, Russia, Philippines), gaining cross-cultural fluency, language skills, and ability to adapt in diverse business environments. 
 
 **Entrepreneurship**  
 Demonstrated business acumen and adaptability by coordinating international manufacturing collaborations and launching an entrepreneurial fashion company.  
