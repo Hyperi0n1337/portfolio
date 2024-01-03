@@ -3,7 +3,7 @@ layout: default
 ---
 ## About Me 👨🏻‍💼
 <p align="justify">
-I'm Markos Terzidis, a highly analytical professional with a diverse background spanning engineering, finance, and entrepreneurship. Born in Athens, Greece, I'm a dual citizen of Greece and the United States, and I've leveraged my multilingual skills in English, Russian, French, and Greek to build an international career.
+I'm Markos Terzidis, a highly analytical professional with a diverse background spanning engineering, finance, and entrepreneurship. Born in Athens, Greece, I'm a dual citizen of the United States and Greece, and I've leveraged my multilingual skills in English, Russian, French, and Greek to build an international career.
 </p><p align="justify">
 &emsp;My journey began with a full-ride merit scholarship at Rowan University, where I earned a Bachelor of Science in Chemical Engineering. During my academic years, I honed my skills in software tools like MATLAB, Solidworks, and Excel, that cultivated my problem-solving abilities and analytical mindset.
 </p><p align="justify">
