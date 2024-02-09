@@ -21,7 +21,7 @@ I'm Markos Terzidis, a highly analytical professional with a diverse background 
 
 **Investment Strategist & Portfolio Manager**  
 3/2020 • Present  
-Freelance  
+Private Investment Advisor  
 <p align="justify">
 • Managed personalized investment portfolios and financial plans for HNWI. Leveraged multilingual skills to build an international client base.  
 </p><p align="justify">
