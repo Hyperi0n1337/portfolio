@@ -45,7 +45,7 @@ Boston, Massachusetts, United States · Hybrid
 • Leveraged multilingual skills to effectively manage international financial relationships and partnerships.  </p>
   &emsp;  
 **Operations Director and Financial Strategist**  
-3/2019 • 4/2022  
+5/2018 • 4/2022  
 A Terzidis & Co. · Full-time  
 Athens, Attiki, Greece · Hybrid  
    <p align="justify">
