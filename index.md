@@ -89,13 +89,13 @@ Athens, Attiki, Greece · On-site
 • Gained hands-on experience in the various phases of form-fitting textile production, with a primary focus on plastic accessory manufacturing. This included operating injection plastic machines to produce high-quality accessories for the textile industry. 
 </p>
 **Petroleum Engineering / Value analysis - Chemical Engineer Intern**  
-6/2015 • 8/2015  
+6/2015 • 9/2015  
 LUKOIL · Internship  
 Kogalym, Khanty-Mansi, Russia · Hybrid  
 
-• Researched and tackled pipeline corrosion issues due to chemical make-up of oil, performed cost analysis of select equipment  
+• Researched and tackled pipeline corrosion issues due to chemical make-up of oil, performed cost analysis of select equipment.
 
-• Monitored drilling operations to ensure performance    
+• Monitored drilling operations to ensure performance.    
 <p align="justify">
 Collaborated with a team of experienced American petroleum engineers to foster an environment of innovative problem-solving. My cross-cultural perspective complemented the expertise of these industry veterans and strengthened my technical capabilities.  
 </p>
