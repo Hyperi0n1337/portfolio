@@ -366,7 +366,7 @@ Cleaning, visualization, deriving insights from financial datasets.
 
 **Forex Trading Experience**  
 
-• Traded major currency pairs including Rouble and Euro. Shorted EURUSD from 1.15 to 0.98 based on fundamentals, helping clients preserve their purchasing power.  
+• Traded major currency pairs including Rouble and Euro. Shorted EURUSD from 1.15 to 1.00 based on fundamentals, helping clients preserve their purchasing power.  
 
 • Bought Rouble at 103 when sentiment was negative. Sold at 65 after analyzing Russian central bank policies and interest rate hikes.  
 
