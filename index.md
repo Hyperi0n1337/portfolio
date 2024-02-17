@@ -364,7 +364,7 @@ Cleaning, visualization, deriving insights from financial datasets.
 
 • Transitioned to stablecoin yield farming and liquidity pools. Researched protocols like Ethereum, Solana, and BSC to evaluate stablecoin risks and rewards. Diversified across platforms to mitigate risk.  
 
-• Grew initial personal capital of $30,000 to $300,000 through strategic crypto trading. Protected principal by moving to stable assets before market decline.  
+• Grew initial personal capital of $30,000 to $400,000 through strategic crypto trading. Protected principal by moving to stable assets before market decline.  
 
 **Forex Trading Experience**  
 
