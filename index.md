@@ -34,13 +34,13 @@ Private Investment Advisor
 EKP Consultants Inc · Contract  
 Boston, Massachusetts, United States · Hybrid  
 <p align="justify">
-• Performed probabilistic risk analysis to model financial outcomes under various scenarios, enabling data-driven contingency planning.
+• Reduced processing time by 50% vs. excel by automating data cleaning and analysis with Pandas and Numpy in Python.
 </p><p align="justify">
-• Created advanced valuation models for real estate developments, improving cost and ROI projection accuracy by 10%.  
+• Boosted model accuracy by 30% using XGBoost (classifier & regressor) to forecast real estate market trends.
 </p><p align="justify">
-• Provided quantitative decision support to senior management on portfolio optimization, capital allocation, and risk-return tradeoffs.  
+• Used sklearn mutual information to assess feature importance, encompassing intricate factors in the feasibility study.  
 </p><p align="justify">
-• Produced actionable financial reports and clearly communicated analytic findings to guide leadership. 
+• Visualized model results with Matplotlib and Seaborn, integrated into an actionable report for senior management.
 </p><p align="justify">
 • Leveraged multilingual skills to effectively manage international financial relationships and partnerships.  </p>
   &emsp;  
@@ -51,9 +51,9 @@ Athens, Attiki, Greece · Hybrid
    <p align="justify">
 • Led operations and financial strategy for the family business for three years, playing a pivotal role in revitalizing and expanding the company's operations.  
 </p><p align="justify">
-• Engaged in direct customer interactions, effectively utilizing multilingual skills (French and Russian) to communicate with key international clients, fostering strong relationships and understanding client needs, contributing 10% sales growth from European markets.  
+• Engaged in direct customer interactions, effectively utilizing multilingual skills (French and Russian) to communicate with key international clients, fostering strong relationships and understanding client needs, contributing to sales growth from European markets.  
 </p><p align="justify">
-• Assumed financial management responsibilities, including cash flow analysis, investment pricing, financial statement analysis, and the development of a production cost tracking system, optimizing overall financial performance and reducing costs by 8%.  
+• Achieved a 15% cost reduction through streamlined financial management, encompassing cash flow analysis, investment pricing, and financial statement analysis, facilitated by an efficient expense tracking system.
 </p><p align="justify">
 • Rapidly engineered production of medical-grade protective masks at the onset of the COVID-19 pandemic, supplying over 50,000 units to the UK and European countries. This agile venture contributed 20% to revenue stabilization during an unprecedented global crisis.  
 </p><p align="justify">
@@ -65,7 +65,7 @@ Athens, Attiki, Greece · Hybrid
 </p><p align="justify">
 • Utilized 3D model CNC technology to create custom bra cup designs and sizes for over 100 unique shapes, enhancing product customization capabilities.  
 </p><p align="justify">
-• Improved communication and coordination between manufacturing and office teams by 20% by introducing a cloud-based order tracking system with interactive dashboard in Google Sheets, allowing for efficient monitoring of order status, production stages, and lead time accuracy.  </p>
+• Enhanced lead time by 20% and improved communication and coordination between manufacturing and office teams by introducing a cloud-based order tracking system with interactive dashboard in Google Sheets, allowing for efficient monitoring of order status, production stages, and lead time accuracy.  </p>
   &emsp;  
 
   **Geothermal Energy Project Consultant**  
@@ -120,6 +120,8 @@ This project is being developed collaboratively on a private GitHub repository w
 Bachelor of Science • BS, Chemical Engineering 
 <p align="justify">
 Activities and societies: American Institute of Chemical Engineers (AIChE), Undergraduate Research
+</p><p align="justify">
+Audited courses (MIT-OCW): Topics in Mathematics with Applications in Finance
 </p><p align="justify">
 Developed team and design skills while working with students from four different engineering disciplines.  </p><p align="justify">
 Utilized oral and written communication skills to produce project documentation and presentations.  </p><p align="justify">
