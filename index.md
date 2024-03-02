@@ -3,13 +3,13 @@ layout: default
 ---
 ## About Me 👨🏻‍💼
 <p align="justify">
-I'm Markos Terzidis, a highly analytical professional with a diverse background spanning engineering, finance, and entrepreneurship. Born in Athens, Greece, I'm a dual citizen of the United States and Greece, and I've leveraged my multilingual skills in English, Russian, French, and Greek to build an international career.
+I'm Markos Terzidis, a highly analytical professional with a diverse background spanning engineering, finance, and entrepreneurship. Born in Athens, Greece, I'm a dual citizen of the United States and Greece, and I've leveraged my multilingual skills in English, French, Russian, and Greek to build an international career.
 </p><p align="justify">
 &emsp;My journey began with a full-ride merit scholarship at Rowan University, where I earned a Bachelor of Science in Chemical Engineering. During my academic years, I honed my skills in software tools like MATLAB, Solidworks, and Excel, that cultivated my problem-solving abilities and analytical mindset.
 </p><p align="justify">
 &emsp;After completing my degree, I gained valuable engineering experience through internships in mechanical design and petroleum engineering. This practical knowledge allowed me to contribute significantly to the family business, gaining a comprehensive understanding of finance and international business relationships.
 </p><p align="justify">
-&emsp;My passion for finance led me to actively manage portfolios, not only for myself but also for high-net-worth clients. I specialize in financial analysis, modeling, risk management, and algorithmic trading, and I've achieved commendable returns through active crypto trading and yield farming strategies.
+&emsp;My passion for finance led me to actively manage portfolios, not only for myself but also for high-net-worth clients. I specialize in financial analysis, modeling, risk management, and algorithmic trading, and I've achieved commendable returns through active crypto trading and investment strategies in traditional markets.
 </p><p align="justify">
 &emsp;With a global perspective from living and working in five countries across three continents, I possess cross-cultural fluency and adaptability.
 </p><p align="justify">
