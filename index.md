@@ -29,7 +29,7 @@ Private Investment Advisor
 </p><p align="justify">
 • Additionally, through collaboration with experienced programmers I developed a sophisticated backtesting framework, showcasing my proficiency in financial analysis, modeling, trading, risk management, and programming.</p>
   &emsp;  
-**Quantitative Financial Advisor**  
+**Quantitative Developer**  
 10/2021 • 8/2023  
 EKP Consultants Inc · Contract  
 Boston, Massachusetts, United States · Hybrid  
