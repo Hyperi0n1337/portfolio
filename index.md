@@ -19,9 +19,9 @@ I'm Markos Terzidis, a highly analytical professional with a diverse background 
 
 ## Work Experience 💼
 
-**Investment Strategist & Portfolio Manager**  
+**Financial Analyst and Portfolio Manager**  
 3/2020 • Present  
-Private Investment Advisor  
+Private Investment Advisor
 <p align="justify">
 • Managed personalized investment portfolios and financial plans for HNWI. Leveraged multilingual skills to build an international client base.  
 </p><p align="justify">
@@ -44,7 +44,7 @@ Boston, Massachusetts, United States · Hybrid
 </p><p align="justify">
 • Leveraged multilingual skills to effectively manage international financial relationships and partnerships.  </p>
   &emsp;  
-**Operations Director and Financial Strategist**  
+**Director of Finance and Business Operations**  
 5/2018 • 4/2022  
 A Terzidis & Co. · Full-time  
 Athens, Attiki, Greece · Hybrid  
@@ -79,7 +79,7 @@ Argolis, Peloponnese, Greece · Remote
 </p><p align="justify">
 • Used proprietary radiometric methodology using electromagnetic field (EMF) data and machine learning techniques to accurately map subsurface geothermal resources and reduce drilling failure rates.  </p>
 &emsp;  
-**Chemical Engineering Specialist**  
+**Materials And Process Engineer**  
 6/2016 • 8/2017  
 Lion Design · Part-time   
 Athens, Attiki, Greece · On-site  
@@ -88,7 +88,7 @@ Athens, Attiki, Greece · On-site
 </p><p align="justify">
 • Gained hands-on experience in the various phases of form-fitting textile production, with a primary focus on plastic accessory manufacturing. This included operating injection plastic machines to produce high-quality accessories for the textile industry. 
 </p>
-**Petroleum Engineering / Value analysis - Chemical Engineer Intern**  
+**Petroleum Engineering - Intern**  
 6/2015 • 9/2015  
 LUKOIL · Internship  
 Kogalym, Khanty-Mansi, Russia · Hybrid  
